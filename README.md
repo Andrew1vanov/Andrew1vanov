@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A Python Developer</h3>
 
-- 🔭 I’m currently working on [Tech_analys_tests](https://github.com/Andrew1vanov/Tech_analys_tests)
+- 🔭 I’m currently working on zavod
 
 </p>
 
